@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 600px;
+}
+
+#time-display {
+    font-size: 120px;
+}
+
+#date-display {
+    font-size: 60px;
+}
+
+.display-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.title-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+}
